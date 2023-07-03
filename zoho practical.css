@@ -1,0 +1,380 @@
+   *{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+nav{
+    background:white;
+    width: 100%;
+    height: 90px;
+    border:1px solid balck;
+
+}
+.logo{
+    
+    height:60px;
+    width:90px;
+    padding-left:15px;
+    margin-top:10px;
+
+
+}
+.navlist{
+    float:right;
+}
+ul li{
+    display: inline-block;
+    margin: 18px;
+    line-height:2;
+    font-style:none;
+
+}
+a{
+    font-size: 19px;
+    color:black;
+    font-weight:none;
+    font-family:inherit;
+    cursor:pointer;
+}
+.heading{
+    height:800px;
+    width:100%;
+}
+.praveen{
+    display:flex;
+    justify-content:space-between;
+    list-style:none ;
+      border-radius:2px;
+    font-family:inherit;
+    background-color:whitesmoke;
+}
+
+.middle{
+    height:650px;
+    width:100%;
+    font:inherit;
+    line-height:2;
+    font-size:20px;
+    background:white;
+
+}
+
+.start{
+    border-radius:none;
+    border-style:none;
+}
+.startbutton{
+    background:red;
+    color:white;
+    border:3px solid red;
+    width:250px;
+    height:39px;
+    border-radius:3px;
+    font-size:14px;
+    text-allign:center;
+    button-border:none;
+    cursor:pointer;
+}
+.featured{
+    background:white;
+    display:flex;
+    justify-content: space-between ;
+    height:340px;
+    padding-left:20px;
+    padding-right:20px;
+font-size-adjust: inherit;
+}
+.bt-explore{
+    height:140px;
+
+}
+.explorebutton{
+    height:39px;
+    width:350pxp;
+    background:blue;
+    color:white;
+    border-radius:2px;
+    border:3px solid blue;
+    cursor:pointer;
+}
+.diamondlogo{
+    width:120px;
+    height:100px;
+     margin-bottom:280px;
+     padding-left:10px;
+   
+}
+.yellowtext{
+    background:orange;
+    height:600px;
+    font-family: inherit;
+    padding-bottom:50px;
+
+
+}
+  
+  .yellowtext ul li{
+ display:inline-block;
+ font-size:20px;
+   }
+  .ceologo{
+    height:120px;
+    
+  }
+  .zohoonebtn{
+    height:30px;
+    width:170px;
+   background :red;
+   color:white;
+   border: 2px  red;
+    cursor:pointer;
+  }
+  .brands{
+    height:1000px;
+  }
+  
+.loreal{
+    height:80px;
+}
+.tataplay{
+    height:80px;
+}
+    .spicejet{
+        height:110px;
+        margin-top:30px;
+
+    }
+  .max{
+    height:90px;
+  }
+  .purolite{
+    height:80px;
+  }
+  .amazon{
+    height:110px;
+  }
+  .zomoto{
+    height:80px;
+  }
+  .customerbtn{
+    height:30px;
+    width:220px;
+    color:blue;
+    background color:white;
+    border:1px solid white;
+     cursor:pointer;
+  }
+  .floatimage{
+    height:1200px
+    width:100%;
+    background: white;
+    display:flex;
+    align:center;
+
+}
+   .managing{
+    font-family: inherit;
+    font-size:22px;
+    padding:40px;
+    justify-content:space-between;
+   }
+
+
+  
+  .greyimage{
+    height:400px;
+    width:700px;
+  }
+ .grandfather{
+    height:130px;
+    width:95px;
+ }
+ .readourstorybtn{
+    color:blue;
+    background:white;
+    border:2px white;
+     cursor:pointer;
+ }
+ .touchbutton{
+    background:blue;
+    color:white;
+    height:50px;
+    width:200px;
+    border:2px blue;
+ }
+ .blueimage{
+    position:relative;
+    color:white;
+ }
+ .bluebackground{
+    height:600px;
+    width:100%;
+ }
+ 
+ .bluetext{
+    position:absolute;
+    top:50px;
+    padding:40px;
+    font-size:25px;
+ }
+.aboutbutton{
+    height:50px;
+    width:220px;
+    color:white;
+    background:blue;
+    border: 2px solid white;
+    border-radius:2px;
+     cursor:pointer;
+ }
+
+.watchvideo{
+    border-line:2px solidblue;
+    color:blue;
+    background:white;
+    height:60px;
+    width:180px;
+        border:2px solid blue;
+        cursor:pointer;
+}
+ 
+
+.privacy{
+    height:800px;
+    width:100%;
+    background:white;
+    font-size:23px;
+    font-family:inherit;
+  justify-content:center;
+}
+ .shield{
+    hieght:500px;
+    width:200px;
+
+}
+
+.imageoverwrite{
+    height:1050px;
+    position:relative;
+   
+}
+
+.logo2{
+    width:1290px;
+}
+.corevalues{
+    height:750px;
+    background:white;
+    width:90%;
+  box-sizing: border-box;
+  position:relative;
+   bottom:260px;
+   border-radius:2pxsolid white;
+
+}
+.coretext{
+    display:inline-block;
+    display:flex;
+    justify-content: space-between;
+    font-size: 24px;
+    font:arial;
+    
+    
+}
+.readbutton{
+    background:blue;
+    color:white;
+    height:40px;
+    weight:70px;
+    border:3px solid blue;
+     cursor:pointer;
+}
+    .zohoowner{
+        height:700px;
+        background:ghostwhite;
+        font-size:20px;
+        line-height:2 ;
+        Padding:20px;
+        display:flex;
+        justify-content: space-between;
+    }
+    .forbesimg{
+        height:70px;
+        width:110px;
+
+    }
+    .forbesbutton{
+        height:60px;
+        width:160px;
+        background:white;
+        border:2px blue;
+        color:blue;
+         cursor:pointer;
+         border:2px solid blue;
+     }
+
+.ownerimage{
+    height:500px;
+}
+.worktext{
+    font-size:28px;
+    font-family:inherit;
+    height:280px;
+
+}
+.starttextbtn{
+    height:50px;
+    width:160px;
+    color:white;
+    background:red;
+    cursor:pointer;
+    border:2px red;
+}
+
+.banner{
+    height:300px;
+    width:80%;
+
+}
+
+.main{
+   
+    border:1px solid black;
+}
+.icons{
+    justify-items:center;
+}
+a:hover{
+    background-color:skyblue;
+}
+lasttext{
+    margin:0px;
+    text-decoration: none;
+    font-size:none;
+    font-family:none;
+}
+
+.lasttext ul li{
+
+ padding-: 20px;
+    padding: 1px;
+    border-right:2px solid #d1d5e2;
+   align-content:center;
+  font-family:serif;
+
+
+}
+.last{
+    background:black;
+    color:white;
+    line-height:2;
+     height:110px;
+   
+}
+.lastlogo{
+
+    margin-top:14px ;
+      height:30px;
+    weight:50px;
+
+}
